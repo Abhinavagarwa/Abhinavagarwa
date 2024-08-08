@@ -5,6 +5,16 @@
 
 <p align="left"> <a href="https://twitter.com/abhinavaga72" target="blank"><img src="https://img.shields.io/twitter/follow/abhinavaga72?logo=twitter&style=for-the-badge" alt="abhinavaga72" /></a> </p>
 
+- 🌱 I’m currently learning **MERN Stack**
+
+- 📝 I regularly write articles on [https://medium.com/@abhimeme911](https://medium.com/@abhimeme911)
+
+- 💬 Ask me about **react,java,javascript**
+
+- 📫 How to reach me **abhinavagarwal0711@gmail.com**
+
+- ⚡ Fun fact **I love chess,roaming around and guitar**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhinavaga72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinavaga72" height="30" width="40" /></a>
